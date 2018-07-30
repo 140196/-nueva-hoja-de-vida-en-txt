@@ -11,7 +11,7 @@ inprovisando
 	 <p>
 	     <h2>Informacion Personal</h2>
 	 </p>
-     <img src="file:///C:/Users/Pavilion/Documents/DANIEL%20codificacion/imagen%20hoja%20de%20vida.jpg.jpg" width="300px" height="300px" alt="foto Daniel"></img>
+     <img src="-nueva-hoja-de-vida-en-txt /imagen hoja de vida.jpg.jpg" width="300px" height="300px" alt="foto Daniel"></img>
 	 <p>
 	     <h3>perfil</h3>
          Conocimientos en sistemas, mantenimiento básico de computadores, suma de vinarios, octales y hexadecimales, comprencion del lenguaje de marcado de hipertexto (HTML) y lenguaje de marcado extencible (XML). conocimientos en el área de bodega elaboración de informes, preparación de entregas y buena organización de la misma.</br>
